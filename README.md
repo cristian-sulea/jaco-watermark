@@ -16,7 +16,7 @@ JACo Watermark is a simple to use, handy and free application that allows you to
 
 ## Change Log
 
-Version 0.3.2 ( August 18, 2011 )
+### Version 0.3.2 ( August 18, 2011 )
 
  - On start, the application will restore the last used settings.
  - The preview is for the entire image, with scroll bars to change
@@ -26,12 +26,12 @@ Version 0.3.2 ( August 18, 2011 )
  - Added the option to view the image as the best fit for your window.
  - Brand new theme for the user interface.
 
-Version 0.2.0 ( July 4, 2011 )
+### Version 0.2.0 ( July 4, 2011 )
 
  - Added the option to select the save format (JPEG, PNG).
  - Added the option to select the compression level for JPG format.
 
-Version 0.1.0 ( July 1, 2011 )
+### Version 0.1.0 ( July 1, 2011 )
 
  - First public release, is actually a beta version.
 
