@@ -2,6 +2,7 @@
 
 JACo Watermark is a simple to use, handy and free application that allows you to easily create and apply a watermark to your pictures in order to protect them from unauthorized distribution. Different font, color, size and transparency texts or images can be added as a watermark. Batch processing is also provided.
 
+
 ## Contact
 
 - For general information visit the project home page at  
@@ -13,6 +14,7 @@ JACo Watermark is a simple to use, handy and free application that allows you to
 - To contact project administrator visit  
    http://cristian.sulea.net  
    http://sourceforge.net/users/cristian-sulea
+
 
 ## Change Log
 
@@ -34,6 +36,7 @@ JACo Watermark is a simple to use, handy and free application that allows you to
 ### Version 0.1.0 ( July 1, 2011 )
 
  - First public release, is actually a beta version.
+
 
 ## Licensing
 
