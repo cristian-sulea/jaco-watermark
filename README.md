@@ -1,19 +1,19 @@
 # JACo Watermark
 
-JACo Watermark is a simple to use, handy and free application that allows you to easily create and apply a watermark to your pictures in order to protect them from unauthorized distribution. Different font, color, size and transparency texts or images can be added as a watermark. Batch processing is also provided.
+JACo Watermark is a free Java Open Source application created to help you apply watermarks to your pictures in order to protect them from unauthorized distribution. Different font, color, size and transparency texts or images can be added as a watermark. Batch processing is also provided.
 
 
-## Contact
-
-- For general information visit the project home page at  
-   http://jaco-watermark.sourceforge.net/
-
-- For development information visit the summary page at  
-   http://sourceforge.net/projects/jaco-watermark/
-
-- To contact project administrator visit  
-   http://cristian.sulea.net  
-   http://sourceforge.net/users/cristian-sulea
+## Features
+	
+ - easy to use interface;
+ - preview for all images;
+ - text and image as watermark;
+ - batch image processing;
+ - supported formats: BMP, GIF, JPG, JPEG, PNG, WBMP;
+ - easy to change the font, size, style and color of the text watermark;
+ - enable/disable the anti-aliasing for text watermark;
+ - allow the change of the opacity level of the watermark (transparency);
+ - adjustment for watermark position.
 
 
 ## Change Log
@@ -36,6 +36,19 @@ JACo Watermark is a simple to use, handy and free application that allows you to
 ### Version 0.1.0 ( July 1, 2011 )
 
  - First public release, is actually a beta version.
+
+
+## Contact
+
+ - For general information visit the project home page at  
+   http://jaco-watermark.sourceforge.net/
+
+ - For development information visit the summary page at  
+   http://sourceforge.net/projects/jaco-watermark/
+
+ - To contact project administrator visit  
+   http://cristian.sulea.net  
+   http://sourceforge.net/users/cristian-sulea
 
 
 ## Licensing
