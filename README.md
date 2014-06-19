@@ -43,11 +43,11 @@ JACo Watermark is a free Java Open Source application created to help you apply 
    http://jaco-watermark.sourceforge.net
 
  - For development information visit the summary page at  
-   http://sourceforge.net/projects/jaco-watermark
+   http://sourceforge.net/projects/jaco-watermark/
 
  - To contact project administrator visit  
    http://cristian.sulea.net  
-   http://sourceforge.net/users/cristian-sulea
+   http://sourceforge.net/users/cristian-sulea/
 
 
 ## Licensing
