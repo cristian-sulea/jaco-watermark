@@ -40,7 +40,6 @@ JACo Watermark is a free Java Open Source application created to help you apply 
 ## Contact
 
  - For general information visit the project home page at  
-   http://cristian.sulea.net/projects/jaco-watermark  
    http://jaco-watermark.sourceforge.net
 
  - For development information visit the summary page at  
