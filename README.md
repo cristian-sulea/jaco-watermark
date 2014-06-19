@@ -24,8 +24,7 @@ JACo Watermark is a free Java Open Source application created to help you apply 
  - The preview is for the entire image, with scroll bars to change
    the visible area in case the image is bigger than the view.
  - When the watermark changes, the tool will auto scroll
-   trying to make visible ( center if possible ) the area with the watermark.
- - Added the option to view the image as the best fit for your window.
+   trying to make visible (center if possible) the area with the watermark.
  - Brand new theme for the user interface.
 
 ### Version 0.2.0 ( July 4, 2011 )
@@ -41,10 +40,11 @@ JACo Watermark is a free Java Open Source application created to help you apply 
 ## Contact
 
  - For general information visit the project home page at  
-   http://jaco-watermark.sourceforge.net/
+   http://cristian.sulea.net/projects/jaco-watermark  
+   http://jaco-watermark.sourceforge.net
 
  - For development information visit the summary page at  
-   http://sourceforge.net/projects/jaco-watermark/
+   http://sourceforge.net/projects/jaco-watermark
 
  - To contact project administrator visit  
    http://cristian.sulea.net  
