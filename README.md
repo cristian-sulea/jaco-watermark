@@ -18,7 +18,7 @@ JACo Watermark is a free Java Open Source application created to help you apply 
 
 ## Change Log
 
-### Version 0.3.2 ( August 18, 2011 )
+### Version 0.4.0 ( June 19, 2014 )
 
  - On start, the application will restore the last used settings.
  - The preview is for the entire image, with scroll bars to change
@@ -52,7 +52,7 @@ JACo Watermark is a free Java Open Source application created to help you apply 
 
 ## Licensing
 
-Copyright (C) 2014 Cristian Sulea ( http://cristian.sulea.net )
+Copyright (C) Cristian Sulea ( http://cristian.sulea.net )
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
