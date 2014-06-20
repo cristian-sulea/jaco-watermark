@@ -43,19 +43,19 @@ be added as a watermark. Batch processing is also provided.
 ## Contact
 
   * For general information visit the project home page at  
-    http://jaco-watermark.sourceforge.net
+    [http://jaco-watermark.sourceforge.net](http://jaco-watermark.sourceforge.net)
 
   * For development information visit the summary page at  
-    http://sourceforge.net/projects/jaco-watermark/
+    [http://sourceforge.net/projects/jaco-watermark/](http://sourceforge.net/projects/jaco-watermark/)
 
   * To contact project administrator visit  
-    http://cristian.sulea.net  
-    http://sourceforge.net/users/cristian-sulea/
+    [http://cristian.sulea.net](http://cristian.sulea.net)  
+    [http://sourceforge.net/users/cristian-sulea/](http://sourceforge.net/users/cristian-sulea/)
 
 
 ## Licensing
 
-Copyright (C) Cristian Sulea ( http://cristian.sulea.net )
+Copyright (C) Cristian Sulea ( [http://cristian.sulea.net](http://cristian.sulea.net "Cristian Sulea") )
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
